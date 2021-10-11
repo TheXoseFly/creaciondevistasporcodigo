@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">04-Creacion de vistas por codigo</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="borrar">borrar</string>
+    <string-array name="ciclos">
+        <item>Selecciona uno...</item>
+        <item>DAM</item>
+        <item>DAW</item>
+        <item>SMR</item>
+        <item>3D</item>
+    </string-array>
+</resources>
